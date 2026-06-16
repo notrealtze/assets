@@ -1,15 +1,12 @@
 {
   "name": "Rosette",
   "description": "Dark pink and white aesthetic",
-  "version": "2",
   "authors": [
-    { "name": "Fizz", "id": "629700611994157057" }
+    { "name": "Tze", "id": "629700611994157057" }
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": ["#c2185b"],
-
     "CHAT_BACKGROUND": ["#0f0a0d"],
-
     "BACKGROUND_ACCENT": ["#e91e8c"],
     "BACKGROUND_FLOATING": ["#120810"],
     "BACKGROUND_MENTIONED": ["rgba(233,30,140,0.08)"],
@@ -26,37 +23,28 @@
     "BACKGROUND_SECONDARY": ["#140d12"],
     "BACKGROUND_SECONDARY_ALT": ["#120b0f"],
     "BACKGROUND_TERTIARY": ["#0c080b"],
-
     "BG_BASE_PRIMARY": ["#0f0a0d"],
     "BG_BACKDROP": ["#000000b2"],
     "BG_BASE_SECONDARY": ["#140d12"],
     "BG_BASE_TERTIARY": ["#120b0f"],
-
     "HOME_BACKGROUND": ["#140d12"],
-
     "BORDER_FAINT": ["#FFFFFF12"],
     "BORDER_SUBTLE": ["#FFFFFF1c"],
     "BORDER_STRONG": ["#FFFFFF26"],
-
     "CARD_PRIMARY_BG": ["#110910"],
     "CARD_SECONDARY_BG": ["#120a0f"],
     "CHANNELS_DEFAULT": ["#f48fb1"],
     "CHANNEL_ICON": ["#f48fb1"],
     "CHANNELTEXTAREA_BACKGROUND": ["#140d12"],
-
     "EMBED_BACKGROUND": ["#120a0f"],
-
     "HEADER_PRIMARY": ["#ffffff"],
     "HEADER_SECONDARY": ["#f48fb1"],
-
     "INTERACTIVE_ACTIVE": ["#e91e8c"],
     "INTERACTIVE_HOVER": ["#7b003e"],
     "INTERACTIVE_MUTED": ["#f48fb1"],
     "INTERACTIVE_NORMAL": ["#ffffff"],
-
     "MENTION_BACKGROUND": ["rgba(233,30,140,0.08)"],
     "MENTION_FOREGROUND": ["#e91e8c"],
-
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#120b0f"],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": ["#140d12"],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#120b0f"],
@@ -66,23 +54,18 @@
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#f48fb1"],
     "REDESIGN_CHANNEL_NAME_TEXT": ["#ffffff"],
     "REDESIGN_CHAT_INPUT_BACKGROUND": ["#140d12"],
-
     "SPOILER_HIDDEN_BACKGROUND": ["#000000"],
-
     "STATUS_DANGER": ["#7b0042"],
     "STATUS_DANGER_BACKGROUND": ["#7b0042"],
     "STATUS_DANGER_TEXT": ["#0f0a0d"],
-
     "POLLS_NORMAL_FILL_HOVER": ["#140d12"],
     "POLLS_NORMAL_IMAGE_BACKGROUND": ["#140d12"],
     "POLLS_VICTOR_FILL": ["#e91e8c80"],
-
     "TEXT_LINK": ["#e91e8c"],
     "TEXT_MUTED": ["#f48fb1"],
     "TEXT_NORMAL": ["#ffffff"],
     "TEXT_PRIMARY": ["#ffffff"],
     "TEXT_SECONDARY": ["#f8bbd0"],
-
     "BG_MOD_FAINT": ["#FFFFFF12"],
     "KEYBOARD": ["#120b0f"],
     "BACKGROUND_MODIFIER_ACCEPT": ["#e91e8c33"],
@@ -106,9 +89,7 @@
     "BLUE_630": "#5a76a8",
     "BLUE_660": "#5a76a8",
     "BLUE_700": "#5a76a8",
-
     "BLACK_500": "#000000b2",
-
     "BRAND_200": "#e91e8c",
     "BRAND_260": "#e91e8c",
     "BRAND_300": "#e91e8c",
@@ -126,7 +107,6 @@
     "BRAND_660": "#e91e8c",
     "BRAND_700": "#e91e8c",
     "BRAND_730": "#ffffff",
-
     "PLUM_1": "#ffffff",
     "PLUM_3": "#e91e8c",
     "PLUM_4": "#ffffff",
@@ -145,7 +125,6 @@
     "PLUM_22": "#140d12",
     "PLUM_24": "#0f0a0d",
     "PLUM_25": "#0f0a0d",
-
     "PRIMARY_100": "#f48fb1",
     "PRIMARY_200": "#ffffff",
     "PRIMARY_300": "#e91e8c",
@@ -162,7 +141,6 @@
     "PRIMARY_700": "#140d12",
     "PRIMARY_730": "#f48fb1",
     "PRIMARY_800": "#120b0f",
-
     "GREEN_260": "#43b581",
     "GREEN_300": "#43b581",
     "GREEN_330": "#43b581",
@@ -178,11 +156,9 @@
     "GREEN_630": "#43b581",
     "GREEN_660": "#43b581",
     "GREEN_700": "#43b581",
-
     "GUILD_BOOSTING_PINK": "#e91e8c",
     "GUILD_BOOSTING_PURPLE": "#e91e8c",
     "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#e91e8c",
-
     "RED_260": "#7b0042",
     "RED_300": "#7b0042",
     "RED_330": "#7b0042",
@@ -198,9 +174,7 @@
     "RED_630": "#7b0042",
     "RED_660": "#7b0042",
     "RED_700": "#7b0042",
-
     "ROLE_DEFAULT": "#f48fb1",
-
     "ORANGE_260": "#faa61a",
     "ORANGE_300": "#faa61a",
     "ORANGE_330": "#faa61a",
@@ -216,7 +190,6 @@
     "ORANGE_630": "#faa61a",
     "ORANGE_660": "#faa61a",
     "ORANGE_700": "#faa61a",
-
     "YELLOW_260": "#faa61a",
     "YELLOW_300": "#faa61a",
     "YELLOW_330": "#faa61a",
@@ -232,9 +205,47 @@
     "YELLOW_630": "#faa61a",
     "YELLOW_660": "#faa61a",
     "YELLOW_700": "#faa61a",
-
     "WHITE_500": "#ffffff",
     "WHITE_630": "#f48fb1"
+  },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf?raw=1"
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/notrealtze/assets/refs/heads/main/Tze-BG.png",
+    "alpha": 1
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "mentionLineColor": "#e91e8c",
+    "icons": {
+      "ic_new_pins": "#e91e8c",
+      "StatusStreaming": "#e91e8c",
+      "StatusMobileOnline": "#43b581",
+      "StatusIdle": "#faa61a",
+      "StatusDND": "#7b0042",
+      "StatusOffline": "#6e6a86",
+      "StatusOnline": "#43b581"
+    }
   },
   "spec": 2
 }
