@@ -1,0 +1,15 @@
+{
+  "fonts": [
+    {
+      "name": "FingerPaint",
+      "fonts": [
+        {
+          "name": "FingerPaint-Regular",
+          "style": "Regular",
+          "weight": 400,
+          "url": "https://github.com/notrealtze/assets/raw/refs/heads/main/FingerPaint-Regular.ttf"
+        }
+      ]
+    }
+  ]
+}
